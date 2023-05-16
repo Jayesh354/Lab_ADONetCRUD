@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_ADONetCRUD", "Lab_ADONetCRUD\Lab_ADONetCRUD.csproj", "{0ABB7B34-6319-467B-B2B2-5E4E2E100E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F4F3A8D5-0F05-4C2E-AEB9-1E6C27EEF956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABB7B34-6319-467B-B2B2-5E4E2E100E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABB7B34-6319-467B-B2B2-5E4E2E100E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABB7B34-6319-467B-B2B2-5E4E2E100E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABB7B34-6319-467B-B2B2-5E4E2E100E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F3A8D5-0F05-4C2E-AEB9-1E6C27EEF956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F3A8D5-0F05-4C2E-AEB9-1E6C27EEF956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F3A8D5-0F05-4C2E-AEB9-1E6C27EEF956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F3A8D5-0F05-4C2E-AEB9-1E6C27EEF956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C4FC75-3FE5-4854-9CC5-D05B69ADF59D}
+	EndGlobalSection
+EndGlobal
